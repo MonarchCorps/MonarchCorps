@@ -8,7 +8,7 @@
 - **Languages & Frameworks**: JavaScript (JS), TypeScript (TS), Node.js, Express.js
 - **Database**: MongoDB
 - **Styling**: CSS
-- **Mobile**: React Native (coming soon 👀)
+- **Mobile**: React Native
 
 ---
 
