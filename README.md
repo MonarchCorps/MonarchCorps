@@ -43,27 +43,3 @@ Event management system with ticket purchasing
 ## 📫 Work
 
 - :email: monarch.tech.corps@gmail.com
-
-<details>
-<summary>
-  More stuffs 🌚
-</summary>
-
-#### More Technologies & Tools 🔧
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&labelColor=black&logo=solidity&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)
-
-#### Github Stats 😁
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MonarchCorps&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonarchCorps&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MonarchCorps&theme=radical)
-
-</details>
