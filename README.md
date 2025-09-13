@@ -7,11 +7,11 @@ I am a Full Stack Web and Mobile Engineer with special interests in React/NextJS
 - 📫 Reach me on: monarch.tech.corps@gmail.com
 - 👯 I'm looking to collaborate on open source projects and innovative applications
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MonarchCorps&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MonarchCorps&show_icons=true&theme=radical&count_private=true&v=2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonarchCorps&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonarchCorps&layout=compact&theme=radical&v=2)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MonarchCorps&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MonarchCorps&theme=radical&v=2)
 
 ## 🚀 Top Technologies
 
