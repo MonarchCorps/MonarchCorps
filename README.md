@@ -13,6 +13,8 @@ I am a Full Stack Web and Mobile Engineer with special interests in React/NextJS
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MonarchCorps&theme=radical&v=2)
 
+[![wakatime](https://wakatime.com/badge/user/9577709f-5659-4331-9d6c-eb5d42b42dfa.svg)](https://wakatime.com/@9577709f-5659-4331-9d6c-eb5d42b42dfa)
+
 ## 🚀 Top Technologies
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
@@ -39,7 +41,3 @@ Feature-rich music streaming platform
 
 ### 🎫 Event Center Platform
 Event management system with ticket purchasing
-
-## 📫 Work
-
-- :email: monarch.tech.corps@gmail.com
