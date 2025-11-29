@@ -24,6 +24,7 @@ I am a Full Stack Web and Mobile Engineer with special interests in React/NextJS
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 
 ## 🏆 Featured Projects
 
