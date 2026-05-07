@@ -6,7 +6,7 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonarchCorps&theme=radical"/>
 <p>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MonarchCorps&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MonarchCorps&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MonarchCorps&layout=compact&langs_count=10&theme=radical"/>
 </p>
 
 <p>
